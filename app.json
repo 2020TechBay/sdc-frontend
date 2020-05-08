@@ -1,0 +1,22 @@
+{
+  "name": "sweproject",
+  "displayName": "sweproject",
+  "expo": {
+    "name": "sweproject",
+    "slug": "sweproject",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/images/batman.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    }
+  }
+}
