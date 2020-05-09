@@ -12,11 +12,6 @@
     ],
     "assetBundlePatterns": [
       "**/*"
-    ],
-    "splash": {
-      "image": "./assets/images/batman.jpg",
-      "resizeMode": "contain",
-      "backgroundColor": "#000000"
-    }
+    ]
   }
 }
